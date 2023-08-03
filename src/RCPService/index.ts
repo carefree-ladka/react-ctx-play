@@ -1,6 +1,6 @@
 import { useQuery } from "react-query";
 async function getRCPState() {
-  const res = await fetch("/React-ctx-playground/mockData.json");
+  const res = await fetch("/react-ctx-play/mockData.json");
   const data = await res.json();
   return data;
 }
