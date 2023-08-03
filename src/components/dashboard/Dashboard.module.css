@@ -1,0 +1,12 @@
+.content {
+  margin-right: 0.2rem;
+}
+
+.content-card {
+  height: 500px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 30px;
+  row-gap: 17px;
+}

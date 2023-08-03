@@ -1,0 +1,36 @@
+.leftSidebar {
+  background: #fcfdfd;
+  padding: 1rem;
+  min-height: 100vh;
+  border-radius: 8px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.leftSidebar-link {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 0.8rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #111;
+  cursor: pointer;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.leftSidebar-link-active-link {
+  background: #edeef0;
+  border-radius: 8px;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.4rem;
+}
+.text {
+  text-transform: capitalize;
+}

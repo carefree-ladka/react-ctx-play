@@ -1,0 +1,752 @@
+{
+  "dashboard": [
+    {
+      "id": 1,
+      "headerText": "Account Balance",
+      "amount": "$30,211.28"
+    },
+    {
+      "id": 2,
+      "headerText": "Pending",
+      "amount": "-$19,500.00"
+    },
+    {
+      "id": 3,
+      "headerText": "Processed",
+      "amount": "$12,000.00"
+    },
+    {
+      "id": 4,
+      "headerText": "Net Worth",
+      "amount": "$52,568.22"
+    },
+    {
+      "id": 5,
+      "headerText": "Investments",
+      "amount": "$22,568.22"
+    },
+    {
+      "id": 6,
+      "headerText": "Cash",
+      "amount": "$30,000.00"
+    }
+  ],
+  "team": [
+    {
+      "name": "admin",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "gender": "male",
+      "email": "admin@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "jdoe",
+      "dob": "1978-10-02T05:00:00.000Z",
+      "gender": "male",
+      "email": "john.doe@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "purplewolf498",
+      "dob": "1965-12-08T06:00:00.000Z",
+      "gender": "female",
+      "email": "yolanda.bishop25@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "whitecat698",
+      "dob": "1965-12-15T06:00:00.000Z",
+      "gender": "male",
+      "email": "allen.hansen47@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "bluepanda840",
+      "dob": "1986-10-12T05:00:00.000Z",
+      "gender": "female",
+      "email": "leslie.vasquez65@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "lazypanda966",
+      "dob": "1966-12-08T06:00:00.000Z",
+      "gender": "female",
+      "email": "georgia.bryant83@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "bigelephant907",
+      "dob": "1988-06-24T05:00:00.000Z",
+      "gender": "male",
+      "email": "troy.hart74@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "ticklishgorilla951",
+      "dob": "1977-01-15T06:00:00.000Z",
+      "gender": "male",
+      "email": "andrew.jackson62@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "whitekoala138",
+      "dob": "1989-07-09T05:00:00.000Z",
+      "gender": "male",
+      "email": "harvey.lawrence68@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "yellowladybug535",
+      "dob": "1969-05-17T05:00:00.000Z",
+      "gender": "female",
+      "email": "roberta.morgan39@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "yellowbird271",
+      "dob": "1991-07-05T05:00:00.000Z",
+      "gender": "female",
+      "email": "judith.reid60@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "bluegorilla84",
+      "dob": "1987-01-23T06:00:00.000Z",
+      "gender": "male",
+      "email": "herbert.jimenez24@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "greenwolf347",
+      "dob": "1986-03-22T06:00:00.000Z",
+      "gender": "female",
+      "email": "rita.elliott58@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "orangeelephant668",
+      "dob": "1980-11-17T06:00:00.000Z",
+      "gender": "female",
+      "email": "natalie.russell65@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "crazypanda274",
+      "dob": "1970-08-13T05:00:00.000Z",
+      "gender": "female",
+      "email": "gina.mccoy13@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "whitecat119",
+      "dob": "1967-06-02T05:00:00.000Z",
+      "gender": "male",
+      "email": "eduardo.porter98@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "whitemouse304",
+      "dob": "1986-04-08T06:00:00.000Z",
+      "gender": "female",
+      "email": "priscilla.mitchell22@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "beautifulleopard367",
+      "dob": "1982-06-12T05:00:00.000Z",
+      "gender": "male",
+      "email": "pedro.peterson70@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "whitepeacock532",
+      "dob": "1980-03-02T06:00:00.000Z",
+      "gender": "female",
+      "email": "darlene.duncan94@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "blackpanda237",
+      "dob": "1977-06-04T05:00:00.000Z",
+      "gender": "female",
+      "email": "laurie.castro82@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "greenfish196",
+      "dob": "1992-01-15T06:00:00.000Z",
+      "gender": "female",
+      "email": "deann.williamson57@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "ticklishdog505",
+      "dob": "1992-12-17T06:00:00.000Z",
+      "gender": "female",
+      "email": "irene.gutierrez33@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "redrabbit642",
+      "dob": "1974-05-19T05:00:00.000Z",
+      "gender": "male",
+      "email": "samuel.nelson94@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "beautifulcat2",
+      "dob": "1984-05-12T05:00:00.000Z",
+      "gender": "female",
+      "email": "kay.walker20@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "lazypeacock969",
+      "dob": "1968-11-08T06:00:00.000Z",
+      "gender": "female",
+      "email": "loretta.coleman49@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "biggoose954",
+      "dob": "1969-11-13T06:00:00.000Z",
+      "gender": "female",
+      "email": "stella.ruiz83@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "bluerabbit187",
+      "dob": "1981-07-13T05:00:00.000Z",
+      "gender": "female",
+      "email": "soham.flores34@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "crazyostrich528",
+      "dob": "1965-03-08T06:00:00.000Z",
+      "gender": "female",
+      "email": "leslie.bates95@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "yellowbird585",
+      "dob": "1984-12-11T06:00:00.000Z",
+      "gender": "male",
+      "email": "jayden.perry28@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "bluemeercat66",
+      "dob": "1979-01-22T06:00:00.000Z",
+      "gender": "male",
+      "email": "herbert.fields50@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "ticklishgoose874",
+      "dob": "1965-05-25T05:00:00.000Z",
+      "gender": "male",
+      "email": "leon.gutierrez45@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "tinyduck628",
+      "dob": "1984-12-28T06:00:00.000Z",
+      "gender": "male",
+      "email": "ryan.kuhn87@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "lazyrabbit169",
+      "dob": "1986-10-16T05:00:00.000Z",
+      "gender": "male",
+      "email": "brent.king35@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "blackelephant246",
+      "dob": "1984-06-27T05:00:00.000Z",
+      "gender": "female",
+      "email": "leona.bell65@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "smallostrich593",
+      "dob": "1990-01-22T06:00:00.000Z",
+      "gender": "female",
+      "email": "evelyn.wallace67@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "ticklishbutterfly1",
+      "dob": "1976-12-18T06:00:00.000Z",
+      "gender": "female",
+      "email": "yolanda.neal48@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "yellowcat935",
+      "dob": "1976-08-07T05:00:00.000Z",
+      "gender": "female",
+      "email": "ritthy.gray28@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "ticklishbear822",
+      "dob": "1970-06-27T05:00:00.000Z",
+      "gender": "male",
+      "email": "jeremy.stevens33@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "ticklishbird555",
+      "dob": "1985-02-26T06:00:00.000Z",
+      "gender": "male",
+      "email": "danny.garza15@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "crazyladybug288",
+      "dob": "1971-11-10T06:00:00.000Z",
+      "gender": "male",
+      "email": "billy.day28@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "whitetiger788",
+      "dob": "1969-01-22T06:00:00.000Z",
+      "gender": "male",
+      "email": "eduardo.evans11@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "crazygorilla336",
+      "dob": "1970-01-27T06:00:00.000Z",
+      "gender": "female",
+      "email": "ida.washington26@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "redladybug440",
+      "dob": "1982-07-14T05:00:00.000Z",
+      "gender": "male",
+      "email": "caleb.roberts68@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "brownmouse229",
+      "dob": "1977-07-22T05:00:00.000Z",
+      "gender": "male",
+      "email": "william.ferguson80@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "silverrabbit923",
+      "dob": "1985-07-26T05:00:00.000Z",
+      "gender": "female",
+      "email": "violet.garrett26@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "tinysnake517",
+      "dob": "1981-07-16T05:00:00.000Z",
+      "gender": "female",
+      "email": "adrian.gibson17@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "greenpeacock556",
+      "dob": "1980-02-14T06:00:00.000Z",
+      "gender": "male",
+      "email": "frank.king99@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "bigmouse194",
+      "dob": "1967-05-12T05:00:00.000Z",
+      "gender": "female",
+      "email": "jean.gutierrez30@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "tinyduck113",
+      "dob": "1980-07-09T05:00:00.000Z",
+      "gender": "male",
+      "email": "johnny.west78@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "crazyduck410",
+      "dob": "1990-12-05T06:00:00.000Z",
+      "gender": "female",
+      "email": "teresa.hernandez71@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "bigsnake928",
+      "dob": "1979-02-18T06:00:00.000Z",
+      "gender": "male",
+      "email": "alan.perez33@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "blackbird181",
+      "dob": "1988-08-23T05:00:00.000Z",
+      "gender": "male",
+      "email": "mario.griffin65@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "orangefrog731",
+      "dob": "1979-08-02T05:00:00.000Z",
+      "gender": "male",
+      "email": "chad.ferguson47@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "blackpanda397",
+      "dob": "1986-09-21T05:00:00.000Z",
+      "gender": "female",
+      "email": "ethel.hopkins76@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "tinymouse298",
+      "dob": "1992-07-09T05:00:00.000Z",
+      "gender": "male",
+      "email": "bruce.lopez12@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "greenswan929",
+      "dob": "1966-12-28T06:00:00.000Z",
+      "gender": "female",
+      "email": "dolores.evans74@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "brownpeacock222",
+      "dob": "1980-12-14T06:00:00.000Z",
+      "gender": "female",
+      "email": "anita.bradley39@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "ticklishpanda298",
+      "dob": "1981-06-09T05:00:00.000Z",
+      "gender": "female",
+      "email": "valerie.silva64@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "greenleopard467",
+      "dob": "1975-11-26T06:00:00.000Z",
+      "gender": "male",
+      "email": "addison.davis55@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "heavywolf437",
+      "dob": "1970-06-05T05:00:00.000Z",
+      "gender": "female",
+      "email": "dana.gilbert19@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "yellowtiger366",
+      "dob": "1974-10-10T05:00:00.000Z",
+      "gender": "female",
+      "email": "sofia.simpson23@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "silversnake507",
+      "dob": "1984-08-24T05:00:00.000Z",
+      "gender": "male",
+      "email": "marion.stevens84@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "bluepanda354",
+      "dob": "1977-10-13T05:00:00.000Z",
+      "gender": "male",
+      "email": "bruce.jennings39@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "smallelephant887",
+      "dob": "1985-10-16T05:00:00.000Z",
+      "gender": "male",
+      "email": "jayden.ellis72@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "yellowdog110",
+      "dob": "1985-08-09T05:00:00.000Z",
+      "gender": "female",
+      "email": "christine.duncan51@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "bluetiger546",
+      "dob": "1965-07-18T05:00:00.000Z",
+      "gender": "male",
+      "email": "hugh.gonzalez84@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "orangegorilla363",
+      "dob": "1992-06-19T05:00:00.000Z",
+      "gender": "male",
+      "email": "oscar.graham49@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "goldenfrog222",
+      "dob": "1976-01-15T06:00:00.000Z",
+      "gender": "male",
+      "email": "rick.steward34@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "greenostrich439",
+      "dob": "1985-01-06T06:00:00.000Z",
+      "gender": "female",
+      "email": "erin.fields25@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "silverwolf910",
+      "dob": "1992-06-24T05:00:00.000Z",
+      "gender": "female",
+      "email": "laurie.mendoza32@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "yellowpanda940",
+      "dob": "1968-01-21T06:00:00.000Z",
+      "gender": "male",
+      "email": "jar.stephens97@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "redbutterfly240",
+      "dob": "1990-11-07T06:00:00.000Z",
+      "gender": "male",
+      "email": "willard.fletcher49@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "purplemeercat491",
+      "dob": "1977-12-28T06:00:00.000Z",
+      "gender": "male",
+      "email": "francisco.fuller20@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "heavyladybug740",
+      "dob": "1974-02-08T05:00:00.000Z",
+      "gender": "male",
+      "email": "jordan.fox20@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "yellowwolf751",
+      "dob": "1987-12-06T06:00:00.000Z",
+      "gender": "female",
+      "email": "cherly.stone88@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "whitekoala266",
+      "dob": "1965-08-03T05:00:00.000Z",
+      "gender": "male",
+      "email": "raymond.cox19@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "silvermouse687",
+      "dob": "1992-11-09T06:00:00.000Z",
+      "gender": "female",
+      "email": "julie.kennedy76@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "blackbird733",
+      "dob": "1968-03-20T05:00:00.000Z",
+      "gender": "male",
+      "email": "marvin.mendoza63@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "orangeostrich499",
+      "dob": "1992-09-21T05:00:00.000Z",
+      "gender": "female",
+      "email": "adrian.newman12@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "blackpeacock213",
+      "dob": "1967-10-10T05:00:00.000Z",
+      "gender": "male",
+      "email": "caleb.payne82@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "orangebird478",
+      "dob": "1968-12-10T06:00:00.000Z",
+      "gender": "male",
+      "email": "claude.reynolds96@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "organicbear74",
+      "dob": "1975-03-15T05:00:00.000Z",
+      "gender": "female",
+      "email": "debra.graham23@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "smallfrog632",
+      "dob": "1975-12-15T06:00:00.000Z",
+      "gender": "male",
+      "email": "kurt.lee70@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "tinykoala298",
+      "dob": "1975-10-07T05:00:00.000Z",
+      "gender": "female",
+      "email": "noelle.jensen55@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "redwolf207",
+      "dob": "1975-04-28T05:00:00.000Z",
+      "gender": "female",
+      "email": "herminia.kuhn17@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "goldenkoala942",
+      "dob": "1979-09-09T05:00:00.000Z",
+      "gender": "female",
+      "email": "marlene.fuller32@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "lazymeercat712",
+      "dob": "1980-07-13T05:00:00.000Z",
+      "gender": "female",
+      "email": "anna.byrd35@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "purplepanda527",
+      "dob": "1972-06-26T05:00:00.000Z",
+      "gender": "female",
+      "email": "gail.holland86@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "ticklishlion619",
+      "dob": "1974-09-01T05:00:00.000Z",
+      "gender": "male",
+      "email": "alfred.ford66@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "goldenbird725",
+      "dob": "1987-09-07T05:00:00.000Z",
+      "gender": "male",
+      "email": "jesus.miller16@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "whitebutterfly382",
+      "dob": "1972-10-15T05:00:00.000Z",
+      "gender": "male",
+      "email": "lewis.harris88@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "heavysnake634",
+      "dob": "1976-08-06T05:00:00.000Z",
+      "gender": "male",
+      "email": "ralph.rogers82@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "blackrabbit3",
+      "dob": "1973-07-19T05:00:00.000Z",
+      "gender": "female",
+      "email": "joyce.sanders18@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "goldenbutterfly797",
+      "dob": "1979-09-07T05:00:00.000Z",
+      "gender": "male",
+      "email": "frank.davidson56@company.com",
+      "department": "Human Resources"
+    },
+    {
+      "name": "silverbird464",
+      "dob": "1974-04-01T05:00:00.000Z",
+      "gender": "male",
+      "email": "dean.bradley13@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "blackdog47",
+      "dob": "1992-05-09T05:00:00.000Z",
+      "gender": "female",
+      "email": "georgia.douglas28@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "goldenpeacock175",
+      "dob": "1982-01-05T06:00:00.000Z",
+      "gender": "male",
+      "email": "steven.vasquez91@company.com",
+      "department": "Marketing"
+    },
+    {
+      "name": "smallwolf576",
+      "dob": "1983-06-10T05:00:00.000Z",
+      "gender": "female",
+      "email": "christy.bell39@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "bluemeercat298",
+      "dob": "1968-03-01T06:00:00.000Z",
+      "gender": "male",
+      "email": "herbert.wells85@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "yellowleopard565",
+      "dob": "1978-06-27T05:00:00.000Z",
+      "gender": "male",
+      "email": "nelson.byrd85@company.com",
+      "department": "Sales"
+    },
+    {
+      "name": "redtiger449",
+      "dob": "1972-04-25T06:00:00.000Z",
+      "gender": "male",
+      "email": "morris.moreno77@company.com",
+      "department": "Accounting"
+    },
+    {
+      "name": "greengoose892",
+      "dob": "1982-08-10T05:00:00.000Z",
+      "gender": "female",
+      "email": "jane.hill56@company.com",
+      "department": "Accounting"
+    }
+  ],
+  "projects": { "text": "Projects" },
+  "calender": { "text": "Calender" }
+}
